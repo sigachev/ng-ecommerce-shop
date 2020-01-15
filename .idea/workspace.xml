@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0aa803e1-b95e-46f0-8f31-0757bad9bebd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MimityFrontend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ng-ecommerce-shop.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Local Scope" pattern="" />
+  </component>
+  <component name="ProjectId" id="1WDihb78iPFZUWzXzpLohAU6gJB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Angular/DEBORAHK/APM-Final" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15564202" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="ts.external.directory.path" value="D:\MIMITY\MimityFrontend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MIMITY\MimityFrontend\src\app" />
+      <recent name="D:\MIMITY\MimityFrontend\src\assets\js\plugins\swiper" />
+      <recent name="D:\MIMITY\MimityFrontend\src\assets\css\plugins\swiper" />
+      <recent name="D:\MIMITY\MimityFrontend\src\assets\js" />
+      <recent name="D:\MIMITY\MimityFrontend\src\assets\js\plugins" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MIMITY\MimityFrontend\src\app\home" />
+      <recent name="D:\MIMITY\MimityFrontend\src\app\pages" />
+      <recent name="D:\MIMITY\MimityFrontend\src\app\user\login" />
+      <recent name="D:\MIMITY\MimityFrontend\src\assets\js\plugins" />
+      <recent name="D:\MIMITY\MimityFrontend\src\assets\css\plugins" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (MimityFrontend)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ng-ecommerce-shop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="ng-ecommerce-shop" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0aa803e1-b95e-46f0-8f31-0757bad9bebd" name="Default Changelist" comment="" />
+      <created>1578690685065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578690685065</updated>
+      <workItem from="1578690691868" duration="43011000" />
+      <workItem from="1579077888092" duration="5407000" />
+    </task>
+    <task id="LOCAL-00001" summary="Frontend 2nd day">
+      <created>1579082842028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579082842028</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Frontend 2nd day" />
+    <option name="LAST_COMMIT_MESSAGE" value="Frontend 2nd day" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="179" key="#TSLint" timestamp="1579050055774">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="179" key="#TSLint/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1579050055774" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578949953275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578949953275" />
+    <state x="2505" y="115" key="CommitChangelistDialog2" timestamp="1579082837270">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2505" y="115" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1579082837270" />
+    <state x="2660" y="276" key="FileChooserDialogImpl" timestamp="1579077928532">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="276" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1579077928532" />
+    <state x="2660" y="276" key="FileChooserDialogImpl/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1578947655004" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579078684417">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1579078684417" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578949557956" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1579069216659" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579078684417">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1579078684417" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578949557955" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1579069216659" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579078684417">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1579078684417" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578949557955" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1579069216659" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579078684417">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1579078684417" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578949557955" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1579069216659" />
+    <state x="2360" y="95" key="SettingsEditor" timestamp="1578985015915">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578950009708" />
+    <state x="2360" y="95" key="SettingsEditor/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1578985015915" />
+    <state x="3840" y="0" width="1552" height="715" maximized="true" key="dock-window-1" timestamp="1579079918043">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3840" y="0" width="1552" height="715" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1579079918043" />
+    <state x="3840" y="0" width="1555" height="715" maximized="true" key="dock-window-1/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1578977477166" />
+    <state x="3855" y="0" width="1552" height="715" maximized="true" key="dock-window-2" timestamp="1579080444960">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3855" y="0" width="1552" height="715" maximized="true" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1579080444960" />
+    <state x="3840" y="0" width="1555" height="715" key="dock-window-2/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1579059402522" />
+    <state x="3840" y="88" width="1552" height="715" maximized="true" key="dock-window-3" timestamp="1579081294684">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3840" y="88" width="1552" height="715" maximized="true" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1579081294684" />
+    <state x="3840" y="0" width="1555" height="715" key="dock-window-3/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1579060112296" />
+    <state x="3840" y="0" width="1555" height="715" maximized="true" key="dock-window-4" timestamp="1579077933624">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3840" y="0" width="1555" height="715" maximized="true" key="dock-window-4/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1579062850434" />
+    <state x="2743" y="446" width="348" height="298" key="org.angular.cli.generate" timestamp="1579082668882">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2743" y="446" width="348" height="298" key="org.angular.cli.generate/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1579082668882" />
+    <state x="823" y="446" width="348" height="298" key="org.angular.cli.generate/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1578949541270" />
+    <state x="2743" y="446" width="348" height="298" key="org.angular.cli.generate/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1579062914382" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578691271972">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/3840.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1578691271972" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/home/main-slider/main-slider.component.html</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
